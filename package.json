@@ -1,8 +1,8 @@
 {
-  "name": "node_zip",
+  "name": "@zachary822/node_zip",
   "version": "1.0.0",
   "description": "ZIP archive library using only Node.js built-in modules",
-  "license": "ISC",
+  "license": "MIT",
   "author": "",
   "type": "commonjs",
   "main": "dist/index.js",
